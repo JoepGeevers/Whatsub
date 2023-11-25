@@ -1,7 +1,5 @@
-﻿namespace Whatsub
-{
-	public class Whatsub
-	{
+﻿namespace Whatsub;
 
-	}
+public class Whatsub
+{
 }
