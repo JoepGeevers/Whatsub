@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whatsup", "Whatsup\Whatsup.csproj", "{EB3838A3-22B9-41FB-8E02-8B20D1BF9456}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whatsub", "Whatsub\Whatsub.csproj", "{EB3838A3-22B9-41FB-8E02-8B20D1BF9456}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
