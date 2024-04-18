@@ -76,8 +76,10 @@ namespace Whatsub.Test
 		public record CarCreated(int CarId) { }
 		public record CarDeleted(int CarId) { }
 
-		// todo: what about async?
-		// todo: what about exceptions?
-		// todo: what about async ANd exceptions?
-	}
+		// todo: write both a simple framework and core web app to check what happens with exceptions...
+
+        // todo: what about async?
+        // todo: what about exceptions?
+        // todo: what about async ANd exceptions?
+    }
 }
