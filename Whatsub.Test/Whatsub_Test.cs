@@ -1,11 +1,17 @@
 namespace Whatsub.Test
 {
-	using System;
+	using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 	[TestClass]
 	public class Whatsub_Test
 	{
-		[TestMethod]
+        [TestInitialize]
+        public void TestInitialize()
+        {
+			Whatsub.Clear();
+        }
+
+        [TestMethod]
 		public void OnPublish_InvokeSubscription()
 		{
 			// arrange
